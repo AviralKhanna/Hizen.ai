@@ -10,7 +10,7 @@ Ensure the following tools and libraries are installed:
 - Jupyter Notebook or Google Colab
 - Required Python libraries:
   ```bash
-  pip install pandas numpy matplotlib seaborn scikit-learn lightgbm
+  pip install pandas numpy matplotlib seaborn scikit-learn lightgbm.
   ```
 
 ## File Structure
